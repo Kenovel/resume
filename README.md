@@ -1,3 +1,3 @@
 # Мое резюме
 
-[Коновалов Никита](https://kenovel.github.io/resume/).
+[Коновалов Никита](https://kenovel.github.io/resume/)
